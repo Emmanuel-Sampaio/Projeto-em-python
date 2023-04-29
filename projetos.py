@@ -30,3 +30,4 @@ while True:
         break 
     else: 
         print("opção invalida")
+print("testando o codigo")
